@@ -9,5 +9,4 @@ module.exports = { calcularSubtotal, calcularImpuesto, calcularTotal };
 
 
 
-/* holaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaa*/
+/* holaaaaaaaaaaaaaaaaa*/
