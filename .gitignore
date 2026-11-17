@@ -1,0 +1,12 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración privados
+.env
+.env.*
+
+# Logs
+*.log
+
+# Archivos temporales
+.DS_Store

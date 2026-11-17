@@ -1,0 +1,26 @@
+{
+  "name": "calculadora-impuestos",
+  "version": "1.0.0",
+  "description": "Proyecto desarrollado en JavaScript para calcular precios de productos aplicando impuestos.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a24efrenpb-glitch/Calculadora-impuestos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a24efrenpb-glitch/Calculadora-impuestos/issues"
+  },
+  "homepage": "https://github.com/a24efrenpb-glitch/Calculadora-impuestos#readme",
+  "devDependencies": {
+    "jsdoc": "^4.0.5"
+  }
+}
